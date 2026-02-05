@@ -1,5 +1,4 @@
 ## 🚀 Live Demo: https://digital-farmer-market.vercel.app/
-👉 Click here to view the deployed project
 
 
 # Digital Farmer Market (Farm2Home)
