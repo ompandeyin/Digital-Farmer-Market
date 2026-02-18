@@ -197,6 +197,3 @@ Ready for deployment and further enhancements
 **Om Pandey**  
 Computer Science Student  
 Lovely Professional University, Punjab
-
-
-
